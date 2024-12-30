@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "Bundler",
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "dist",
+    "tsBuildInfoFile": ".cache/tsbuildinfo"
+  },
+  "include": ["src"],
+  "exclude": ["tmp"]
+}
