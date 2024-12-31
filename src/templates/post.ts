@@ -36,6 +36,7 @@ export const generatePost = ({
 ---
 title: ${title}
 pubDate: ${pubDate.toISOString()}
+heroImage: [./assets/featured-image.svg, Placeholder featured image]
 isDraft: ${isDraft}
 ---
 
